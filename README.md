@@ -55,7 +55,7 @@ AI Study Buddy is a Streamlit-based educational platform designed to help studen
 * `utils/ai_logic.py`: Logic for AI responses, scheduling, and mark-specific depth guides.
 * `utils/quiz_manager.py`: Handles dynamic quiz generation and JSON parsing.
 * `utils/pdf_handler.py`: Manages text extraction from uploaded PDF files.
-* ## 📖 How to Use
+## 📖 How to Use
 
 Follow these steps to get the most out of the AI Study Buddy:
 
